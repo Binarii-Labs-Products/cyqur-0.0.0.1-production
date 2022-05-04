@@ -5,5 +5,8 @@
 - local Storage blocked when > 1 tabs open: Alert
 
 ### Enhancements
+- full backup import
+- all packets downloadable as text files
 
 ### Chore
+- callback delays in crud operations: promises removed
